@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-09T00:39:59 IST" name="Default suite" finished-at="2023-11-09T00:40:25 IST" duration-ms="26044">
+    <groups>
+    </groups>
+    <test started-at="2023-11-09T00:39:59 IST" name="Default test" finished-at="2023-11-09T00:40:25 IST" duration-ms="26044">
+      <class name="NinjaOpencart.NinjaPRoject.Login">
+        <test-method is-config="true" signature="CreateReport()[pri:0, instance:NinjaOpencart.NinjaPRoject.Login@55183b20]" started-at="2023-11-09T00:39:59 IST" name="CreateReport" finished-at="2023-11-09T00:40:00 IST" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateReport -->
+        <test-method signature="CheckLoginWithValidData()[pri:0, instance:NinjaOpencart.NinjaPRoject.Login@55183b20]" started-at="2023-11-09T00:40:00 IST" name="CheckLoginWithValidData" finished-at="2023-11-09T00:40:21 IST" duration-ms="21037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckLoginWithValidData -->
+        <test-method signature="OpencartQuickSearch()[pri:1, instance:NinjaOpencart.NinjaPRoject.Login@55183b20]" started-at="2023-11-09T00:40:21 IST" name="OpencartQuickSearch" finished-at="2023-11-09T00:40:25 IST" duration-ms="3802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpencartQuickSearch -->
+        <test-method is-config="true" signature="actuallyCreateReport()[pri:0, instance:NinjaOpencart.NinjaPRoject.Login@55183b20]" started-at="2023-11-09T00:40:25 IST" name="actuallyCreateReport" finished-at="2023-11-09T00:40:25 IST" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- actuallyCreateReport -->
+      </class> <!-- NinjaOpencart.NinjaPRoject.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
